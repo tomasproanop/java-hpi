@@ -1,0 +1,6 @@
+Java Einstieg Woche3 Bonus1
+======================
+Duke hat am Wochenende einen Vogelzoo besucht. Hilf ihm dabei, seine Beobachtungen in Vererbungshierarchien zu implementieren.
+In der folgenden Aufgabe siehst du 4 Vogelklassen. Ergänze wo nötig in jeder Klasse die Superklasse. 
+
+Im Hauptprogramm (Zoo) gibt es von jedem Tier eine Instanz in dem Array *animals*. Bitte gib in einer Schleife aus, wie jedes Tier "Hallo" (über die Methode sayHello) sagt und ob es fliegen kann (in dieser Reihenfolge). Jede Ausgabe soll dabei in einer neuen Zeile stehen.
