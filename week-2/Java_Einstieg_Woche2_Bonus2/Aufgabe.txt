@@ -1,0 +1,20 @@
+Java Einstieg Woche2 Bonus2
+======================
+In dieser Aufgabe üben wir noch einmal Methoden mit Parameterübergabe.
+Schreibe eine Methode **biggestNumber()** in der Klasse **Robot**, welche zwei Parametern vom Datentyp **int** entgegennimmt.
+
+**biggestNumber()** soll dann die größere der beiden Zahlen auf dem Bildschirm wie folgt ausgeben:<br>
+
+*<span style="color:blue">Die größere Zahl ist: >>GRÖßEREZAHL<<</span>*
+
+<br>
+Beachte, dass >>GRÖßEREZAHL<< nur ein Platzhalter ist und durch die größere der beiden Zahlen ersetzt werden soll. Demnach ist die Ausgabe
+von **biggestNumber(5,6)**:<br>
+
+*<span style="color:blue">Die größere Zahl ist: 6<br></span>*
+
+Falls beide Zahlen gleich sind, so gib diese einfach nach obigem Schema aus. Die Ausgabe von **biggestNumber(5,5)**:<br> sollte daher so sein:
+
+*<span style="color:blue">Die größere Zahl ist: 5<br></span>*
+
+Überlege dir den Rückgabetypen der Methode selbst. 
