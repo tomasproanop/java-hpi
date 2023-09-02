@@ -1,4 +1,0 @@
-Java Einstieg Testaufgabe
-======================
-In dieser Aufgabe soll wiederholt werden, wie man eine Ausgabe auf dem Bildschirm erzeugen kann.
-Schreibe ein Programm, das in einer Zeile "Willkommen Detektiv Duke!" ausgibt und in eine neue Zeile springt.
